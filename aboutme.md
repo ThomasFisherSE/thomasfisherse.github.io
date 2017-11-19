@@ -7,7 +7,7 @@ published: true
 
 I'm currently a final year MEng Computing student at Swansea University. I am currently in search of a software engineering job for next year (July 2018 onwards). So far my life at Univeristy has been going pretty well! I'm on track for a 1st in my degree this year, and have yet to receive lower than a 1st average in any of my previously completed modules.
 
-### Interests (including some projects I've chosen based on them)
+### Interests (including some projects I've worked on based on them)
 
 I am interested in way too many fields to mention here, but some of the main ones are:
 
