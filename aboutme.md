@@ -9,8 +9,7 @@ I'm currently a final year MEng Computing student at Swansea University. I am cu
 
 Since I'm going to University at Swansea, I'm based in Wales at the moment. I will primarily be searching for jobs within Wales, but I'm certainly open to offers from the rest of the UK.
 
-### Interests 
-### (+ some projects I've worked on based on them)
+### Interests
 
 I am interested in way too many tech fields to mention here, but some of the main ones are:
 
