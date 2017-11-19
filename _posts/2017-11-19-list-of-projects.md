@@ -23,7 +23,7 @@ In the second year of my degree, I was tasked with creating a minesweeper clone 
 
 ## [Kablewie+ - Upgraded Minesweeper Clone in Java](https://github.com/ThomasFisherSE/KablewiePlus-Minesweeper)
 
-Later in the second year of my degree, I was provided with a piece of software (A minesweeper clone 'Kablewie' that another group of developers had created, and tasked with updating it and integrating advanced features into the game. This is similar to the previously mentioned 'Kablewie' project, but with added features such as saving / loading, a self-playing AI, and option to reveal the location of mines.
+Later in the second year of my degree, I was provided with a piece of software (a minesweeper clone 'Kablewie') that another group of developers had created and tasked with updating it and integrating advanced features into the game. This is similar to the previously mentioned 'Kablewie' project, but with added features such as saving / loading, a self-playing AI, and option to reveal the location of mines.
 
 ## [Game Suite in Java](https://github.com/ThomasFisherSE/Java-GameSuite)
 
