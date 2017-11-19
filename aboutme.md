@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I? What am I doing at the moment? What are my interests?
 published: true
 ---
 
