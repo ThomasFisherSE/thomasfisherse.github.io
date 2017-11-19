@@ -25,6 +25,11 @@ In the second year of my degree, I was tasked with creating a minesweeper clone 
 
 Later in the second year of my degree, I was provided with a piece of software (A minesweeper clone 'Kablewie' that another group of developers had created, and tasked with updating it and integrating advanced features into the game. This is similar to the previously mentioned 'Kablewie' project, but with added features such as saving / loading, a self-playing AI, and option to reveal the location of mines.
 
+## [Game Suite in Java](https://github.com/ThomasFisherSE/Java-GameSuite)
+
+Once 'Kablewie' was finished, I created another game similar to the popular board game 'Ludo'. I gave this some extra features to the board game such as computer player AI that you could play against. Putting the two games together, I created a Java game suite, where either of the games can be launched.
+
 ## [Merkles Puzzles in Java](https://github.com/ThomasFisherSE/Merkles-Puzzles-Implementation)
 
 In my third year of University, I was tasked with a pair-programming project to demonstrate how the cryptographic key-exchange approach 'Merkles's puzzles' works.
+

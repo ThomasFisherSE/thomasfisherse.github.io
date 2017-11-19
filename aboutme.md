@@ -16,7 +16,7 @@ I am interested in way too many tech fields to mention here, but some of the mai
 - Evolutionary algorithms (See my ['Evolutionary Game'](https://github.com/ThomasFisherSE/EvolutionaryGame) project)
 - Neural networks (See my ['Generic Neural Network'](https://github.com/ThomasFisherSE/GenericBackpropNN) project)
 - Other machine learning approaches and technologies
-- Game development (See my aforementioned ['Evolutionary Game'](https://github.com/ThomasFisherSE/EvolutionaryGame) project)
+- Game development (See the aforementioned ['Evolutionary Game'](https://github.com/ThomasFisherSE/EvolutionaryGame) or [Game Suite](https://github.com/ThomasFisherSE/Java-GameSuite) projects.)
 - Graphics hardware
 
 Really though, if there's a tech that's often mentioned in recent news, or plays a big part in society, then I'm probably pretty interested in it.
