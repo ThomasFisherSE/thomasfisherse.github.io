@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Who am I? What am I doing at the moment? What are my interests?
+subtitle: Who am I? What am I doing? What are my interests?
 published: true
 ---
 
