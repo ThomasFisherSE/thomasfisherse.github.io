@@ -7,6 +7,10 @@ date: 2017/11/19
 ---
 I've worked on lots of projects throughout University. Here's a list of them all, with links!
 
+## [Augmented Reality Warehousing Tool on Android](https://github.com/meffersino/veeqoARApp)
+
+This is a team project I am currently working on with an industry partner, Veeqo. The goal is to produce an augmented reality application that warehouse staff can load onto scanner devices / smartphones to help their productivity. When the user's device is pointed at a QR code and AR marker printed on a shipping box, an AR overlay will be displayed showing useful information such as what is inside the box, quantity, whether it is needed for a stock check etc.
+
 ## [Evolutionary Game in Unity](https://github.com/ThomasFisherSE/EvolutionaryGame)
 
 A space shooter game where enemy ships improve through successive waves using a genetic algorithm. 
@@ -32,4 +36,3 @@ Once 'Kablewie' was finished, I created another game similar to the popular boar
 ## [Merkles Puzzles in Java](https://github.com/ThomasFisherSE/Merkles-Puzzles-Implementation)
 
 In my third year of University, I was tasked with a pair-programming project to demonstrate how the cryptographic key-exchange approach 'Merkles's puzzles' works.
-
