@@ -8,8 +8,6 @@ use-site-title: true
 published: true
 ---
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -60,10 +58,6 @@ published: true
    </article>
   {% endfor %}
 </div>
-
-<center>
-	<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="tom2656"><a class="LI-simple-link" href='https://uk.linkedin.com/in/tom2656?trk=profile-badge'>Thomas Fisher</a></div>
-</center>
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
