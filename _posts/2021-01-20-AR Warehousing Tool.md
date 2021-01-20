@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: AR Warehousing Tool
+title: AR Warehousing Tool (Unity, C#)
 subtitle: An Android-based augmented reality tool to improve day-to-day operations for e-commerce warehouse workers.
 date: 2021/01/20
 thumbnail-img: "/assets/img/projects/ar/arProjectionDemo.jpg"
