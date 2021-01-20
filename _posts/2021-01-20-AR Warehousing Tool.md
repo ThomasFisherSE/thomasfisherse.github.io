@@ -3,12 +3,12 @@ layout: post
 published: true
 title: AR Warehousing Tool
 subtitle: An Android-based augmented reality tool to improve day-to-day operations for e-commerce warehouse workers.
-date: 2020/01/20
+date: 2021/01/20
 thumbnail-img: "/assets/img/projects/ar/arProjectionDemo.jpg"
 cover-img: ["/assets/img/projects/ar/Hiro+Veeqo QR.png"]
 ---
 
-## [Augmented Reality Warehousing Tool on Android](https://github.com/meffersino/veeqoARApp)
+## [Augmented Reality Warehousing Tool on Android (Unity, C#, REST)](https://github.com/meffersino/veeqoARApp)
 
 ![Poster](/assets/img/projects/ar/Poster.png)
 
