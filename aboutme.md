@@ -14,6 +14,8 @@ These opportunities have provided me with valuable skills in being able to learn
 Fortunately, there have also been many opportunities to learn new languages and software development tools, including automated GUI testing.
 At Rockfield, I have been involved in many exciting & innovative projects, such as implementing new visualization systems in order to allow users to build geological models for computational analysis in new, unique ways.
 
+[Download CV](/assets/files/Thomas_Fisher_CV.pdf)
+
 ### Interests
 
 I am hugely interested in the technology field. I am always eager to keep up to date with the recent tech trends and news. 
