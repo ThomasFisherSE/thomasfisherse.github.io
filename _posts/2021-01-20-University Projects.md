@@ -3,6 +3,7 @@ layout: post
 published: true
 title: University Projects
 subtitle: A list of projects I worked on while at Swansea University.
+date: 2021/01/20
 ---
 During my time at Swansea University while obtaining my Master's Degree in Computing (MEng), I was involved in many interesting projects. This page lists some highlights with links to their corresponding git repositories.
 
