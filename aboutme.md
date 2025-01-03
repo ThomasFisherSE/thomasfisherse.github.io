@@ -5,27 +5,20 @@ subtitle: Who am I? What am I doing? What are my interests?
 published: true
 ---
 
-I am an enthusiastic software developer based in Swansea, South Wales. In 2018, I graduated from Swansea University with a master's degree in Computing.
-My 4 years at Swansea Univeristy helped build a great foundation for my software development skills, which I continue to build upon today.
+I am a senior software engineer passionate about taking complex problems and transforming them into clean, well-structured code. With 6 years of industry experience and 4 years of academic experience specializing in C#, C++, and Unity development, I have honed my software engineering skills while working on a range of interesting, cutting-edge software solutions.
 
-Currently, I am employed as a full time software developer at Rockfield, a Swansea based software company providing computational modelling solutions to a variety of problems.
-At Rockfield, I have been fortunate to work on several different software products, which has provided me with the opportunity to learn a lot about some interesting fields, such as geomechanics.
-These opportunities have provided me with valuable skills in being able to learn and work within fields I had no prior experience with.
-Fortunately, there have also been many opportunities to learn new languages and software development tools, including automated GUI testing.
-At Rockfield, I have been involved in many exciting & innovative projects, such as implementing new visualization systems in order to allow users to build geological models for computational analysis in new, unique ways.
+I attained a Master of Engineering (MEng) degree in Computing with First Class Honours from Swansea University in 2018, where I specialized in machine learning and artificial intelligence. Academic projects I worked on included creating an augmented reality warehouse logistics application integrating into existing industry-used APIs (C#, Unity, REST), designing a space-shooter video game that utilized a genetic algorithm for enemy AI (C#, Unity, machine learning), and implementing an object-oriented backpropagation neural network architecture (C++, machine learning).
+
+After graduating, I joined Rockfield Software as a software engineer. There, I worked on developing and maintaining the Elfen suite of geomechanics simulation software products primarily using C++ and Qt, refining my skills in agile development and cross-functional teamwork. This role honed my ability to quickly adapt to complex, industry-specific challenges, demonstrating my capacity to learn and excel in new areas.
+
+In my current role at Masters of Pie, I work with .NET (C#) and Unity to create immersive XR collaboration solutions. I have worked on a range of projects including Radical SDK, which can be integrated into industry solutions to provide real-time collaboration capabilities, an XR-capable rendering engine, and I play a key role in the development of a bespoke defence sector XR collaboration application with GIS integration, contributing significantly to its success.
+
+In my free time I enjoy playing the guitar and bass guitar, playing video games, watching TV and movies (particularly Star Wars), and exploring technologies, from building / upgrading computers to Raspberry Pi projects.
 
 [Download CV](/assets/files/Thomas_Fisher_CV.pdf)
 
-### Interests
-
-I am hugely interested in the technology field. I am always eager to keep up to date with the recent tech trends and news. 
-As a result of this interest, many of my hobbies revolve around technology, inluding occassionally do some experimenting with different tech in my spare time, whether that's setting up a new SD card for my raspberry pis to do something cool, or writing some code in a language I haven't used before.
-A recent example is when I learned that 'The Mandalorian' TV show (I'm a huge Star Wars fan) was filmed using a new technology that the creators call 'The Volume'. This is a large screen surrounding the set, on which a 3D virtual environment built in Unreal Engine is rendered. In the final product, this is seamless and very difficult to tell apart from a real physical set. So of course after learning this, I had to go and play around with Unreal Engine. I'm introduced to many software development skills & technologies in similar ways to this, and these sorts of things are the reason it's very easy for me to stay passionate about software development & technology.
-
-Outside of tech, I enjoy many other hobbies, including playing video games on my PC with friends, learning to play bass guitar, and watching movies. In particular, I'm I big fan of Star Wars, so I'm often spending some of my spare time playing a new Star Wars game, watching a new Star Wars movie, or reading a new Star Wars book / comic.
-
 ### Contact Details
 
-You can e-mail me at [tom2656@gmail.com](tom2656@gmail.com).
+You can e-mail me at [t.d.fisher.se@gmail.com](t.d.fisher.se@gmail.com)
 
-Alternatively, you can find my social media links below.
+You can also find me on LinkedIn: https://www.linkedin.com/in/thomasfisherse/
