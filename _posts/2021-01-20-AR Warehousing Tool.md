@@ -12,7 +12,7 @@ cover-img: ["/assets/img/projects/ar/Hiro+Veeqo QR.png"]
 
 ![Poster](/assets/img/projects/ar/Poster.png)
 
-In my master's year at Swansea University, I worked on a team project in collaboration with an industry partner, 'Veeqo'.
+In my final year at Swansea University, I worked on a team project in collaboration with an industry partner, [Veeqo](https://www.veeqo.com/gb). Veeqo is a software company based in Swansea. At the time, Veeqo was a fairly small start-up, but has since been acquired by Amazon. The project was completed as part of a software team project module in my final year at University, with our team being awarded a first.
 
 The goal of the project was to produce an augmented reality application that warehouse staff could load onto scanner devices or their smartphones, in order to help with their productivity.
 The concept was that boxes in a warehouse could have an AR marker printed on them, next to some identifying label for the product (e.g. a QR code of bar code), and then the product information
