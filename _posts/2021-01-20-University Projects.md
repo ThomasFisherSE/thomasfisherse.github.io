@@ -4,11 +4,14 @@ published: true
 title: University Projects
 subtitle: A list of projects I worked on while at Swansea University.
 date: 2021/01/20
+thumbnail-img: "/assets/img/misc/Thomas_TopOfDeptAward_July2018.jpg"
+cover-img: ["/assets/img/misc/Thomas_TopOfDeptAward_July2018.jpg"]
 ---
 During my time at Swansea University while obtaining my Master's Degree in Computing (MEng), I was involved in many interesting projects. This page lists some highlights with links to their corresponding git repositories.
 
-## [Augmented Reality Warehousing Tool on Android](https://github.com/meffersino/veeqoARApp)
+![Tossing my graduation cap](/assets/img/misc/Thomas_GradCapThrow_July2018.png)
 
+## [Augmented Reality Warehousing Tool on Android](https://github.com/meffersino/veeqoARApp)
 An augmented reality application that warehouse staff can use on custom Veeqo scanner devices or their smartphone in order to help their productivity. When the user's device is pointed at a QR code accompanied by an AR anchor marker printed on a shipping box, an AR overlay will be displayed showing useful information such as what is inside the box, quantity, whether it is needed for a stock check etc.
 
 This is a team project I worked on with an industry partner, Veeqo, a software company based in Swansea. At the time, Veeqo was a fairly small start-up, but has since been [acquired by Amazon](https://www.cnbc.com/2022/03/07/amazon-acquires-e-commerce-software-start-up-veeqo.html). The project was completed as part of a software team project module in my final year at University, with our team being awarded a first.
@@ -16,7 +19,6 @@ This is a team project I worked on with an industry partner, Veeqo, a software c
 See also: [AR Warehousing Tool with Veeqo](https://thomasfisherse.github.io/2021-01-20-AR-Warehousing-Tool/)
 
 ## [Evolutionary Game in Unity](https://github.com/ThomasFisherSE/EvolutionaryGame)
-
 A space shooter game where enemy ships improve through successive waves using a genetic algorithm.
 
 This was an individual project which I completed as part of a software delivery project module in the final year of my MEng Computing course, for which I was awarded a first.
