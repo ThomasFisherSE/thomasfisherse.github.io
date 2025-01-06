@@ -9,7 +9,7 @@ cover-img: ["/assets/img/misc/Thomas_TopOfDeptAward_July2018.JPG"]
 ---
 During my time at Swansea University while obtaining my Master's Degree in Computing (MEng), I was involved in many interesting projects. This page lists some highlights with links to their corresponding git repositories.
 
-![Tossing my graduation cap](/assets/img/misc/Thomas_GradCapThrow_July2018.png)
+![Tossing my graduation cap](/assets/img/misc/Thomas_GradCapThrow_July2018.JPG)
 
 ## [Augmented Reality Warehousing Tool on Android](https://github.com/meffersino/veeqoARApp)
 An augmented reality application that warehouse staff can use on custom Veeqo scanner devices or their smartphone in order to help their productivity. When the user's device is pointed at a QR code accompanied by an AR anchor marker printed on a shipping box, an AR overlay will be displayed showing useful information such as what is inside the box, quantity, whether it is needed for a stock check etc.
