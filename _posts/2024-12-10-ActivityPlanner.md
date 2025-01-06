@@ -48,6 +48,6 @@ The application is built using the MVVM software architecture pattern.
 As the project develops, I hope to post more information here, but in the meantime feel free to take a look at the GitHub project [here](https://github.com/ThomasFisherSE/ActivityPlanner).
 
 ## Screenshots
-![AssignActivityTimeSlot](/assets/img/projects/activityplanner/AssignActivityTimeSlot.png)
+![Activity Planner: Assigning an Activity Time Slot](/assets/img/projects/activityplanner/AssignActivityTimeSlot.png)
 
 More to come as the project progresses.
