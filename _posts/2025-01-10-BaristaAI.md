@@ -5,7 +5,7 @@ title: BaristaAI
 subtitle: An AI assistant to help with coffee brewing.
 date: 2025/01/10
 thumbnail-img: "/assets/img/projects/baristaai/BaristaAI-icon.png"
-cover-img: ["/assets/img/projects/baristaai/AICoffeeAssistantGenerated.png"]
+cover-img: ["/assets/img/projects/baristaai/coffee.png"]
 ---
 
 ## Introduction
@@ -17,9 +17,8 @@ I created BaristaAI as a simple but all-encompassing assistant app to help with 
 
 I use this application myself quite frequently to help me improve the coffee I brew. For example, this morning I made an espresso with some new beans but found it took longer than expected to extract and tasted overly bitter. I typed my issues into BaristaAI, and was given some useful tips to improve my next espresso, such as to try a coarser grind setting.
 
-## Examples
-Video: https://www.youtube.com/watch?v=VYN2e4b9kfE
-![](https://www.youtube.com/watch?v=VYN2e4b9kfE)
+## Screenshots / Videos
+[Click for Video](https://www.youtube.com/watch?v=VYN2e4b9kfE)
 
 If your espresso tastes a bit too bitter:
 
