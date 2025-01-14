@@ -4,8 +4,8 @@ published: true
 title: BaristaAI
 subtitle: An AI assistant to help with coffee brewing.
 date: 2025/01/10
-thumbnail-img: "/assets/img/projects/baristaai/AICoffeeAssistantGenerated.png"
-cover-img: ["/assets/img/projects/baristaai/BaristaAI-TooBitterPrompt.png"]
+thumbnail-img: "/assets/img/projects/baristaai/BaristaAI-icon.png"
+cover-img: ["/assets/img/projects/baristaai/AICoffeeAssistantGenerated.png"]
 ---
 
 ## Introduction
@@ -17,21 +17,25 @@ I created BaristaAI as a simple but all-encompassing assistant app to help with 
 
 I use this application myself quite frequently to help me improve the coffee I brew. For example, this morning I made an espresso with some new beans but found it took longer than expected to extract and tasted overly bitter. I typed my issues into BaristaAI, and was given some useful tips to improve my next espresso, such as to try a coarser grind setting.
 
-## Example
+## Examples
+Video: https://www.youtube.com/watch?v=VYN2e4b9kfE
+![](https://www.youtube.com/watch?v=VYN2e4b9kfE)
 
 If your espresso tastes a bit too bitter:
 
-![BaristaAI: Too Bitter Prompt](/assets/img/projects/baristaai/BaristaAI-TooBitterPrompt.png)
+![BaristaAI: Too Bitter Prompt](/assets/img/projects/baristaai/BaristaAI-TooBitterPrompt.jpeg)
 
 BaristaAI responds with some helpful tips (and follow up questions if necessary) to reduce the bitterness of the espresso next time you make it.
 
-![BaristaAI: Too Bitter Response](/assets/img/projects/baristaai/BaristaAI-TooBitterResponse.png)
+![BaristaAI: Too Bitter Response](/assets/img/projects/baristaai/BaristaAI-TooBitterResponse.jpeg)
 
 ## Some Technical Details
 - BaristaAI is built with .NET MAUI (currently targetting .NET 8), and can be deployed for Android, iOS, or Windows Desktop
 - Powered by Google Gemini (configured to use the `gemini-1.5-pro` model by default) via the [`generative-ai` package for .NET](https://github.com/mscraftsman/generative-ai)
 - Abstracted LLM service, making it easy to swap out the implementation that uses Google Gemini with other LLM APIs (e.g. OpenAI) in the future
 - Uses dependency injection (DI)
+- Markdown formatting support
+  - Markdown LLM output is displayed using a custom `MarkdownView` control which converts markdown to HTML to be displayed using a `WebView`
 - Follows MVVM design pattern
 
 ## Future Improvements
@@ -39,8 +43,6 @@ BaristaAI responds with some helpful tips (and follow up questions if necessary)
 BaristaAI's user interface isn't particularly flashy at the moment as I've primarily created this as a utility for myself, but this is the main area I'm looking to improve on in the future with the following planned features:
 - Navigation side bar
   - Allows other pages like an "Options" page to be added to customize colors / defaults
-- Rich text for LLM output
-  - Will allow responses to be formatted (e.g. bold headers)
 - Pressable icons for brewing method
   - Instead of requiring user to give details about the brewing method in their text prompt, having a few icons at the top of the UI to quickly swap between them will be more convenient
   - An option will be available to allow the user to not specify a brewing method if necessary just in case they're using a more niche brewing method that wasn't considered (e.g. AeroPress)
