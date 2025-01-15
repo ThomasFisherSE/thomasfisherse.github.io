@@ -15,15 +15,14 @@ There are many variables that can have an impact on the quality of an espresso. 
 
 I created BaristaAI as a simple but all-encompassing assistant app to help with coffee brewing. It works using a large language model (LLM) which has been provided some initial context to help guide conversations to give useful tips on coffee brewing.
 
-
-
 ## Examples
 I use this application myself quite frequently to help me improve the coffee I brew. For example, yesterday I made an espresso with some new beans but found it tasted overly bitter.
 
+I typed my issues into BaristaAI:
 ![BaristaAI: Too Bitter Prompt](/assets/img/projects/baristaai/BaristaAI-TooBitterPrompt.jpeg)
-![BaristaAI: Too Bitter Response](/assets/img/projects/baristaai/BaristaAI-TooBitterResponse.jpeg)
 
-I typed my issues into BaristaAI, and was given some useful tips to improve my next espresso, such as to try a coarser grind setting. 
+I was then given some useful tips to improve my next espresso, such as to try a coarser grind setting:
+![BaristaAI: Too Bitter Response](/assets/img/projects/baristaai/BaristaAI-TooBitterResponse.jpeg)
 
 Today, after making the adjustments suggested by BaristaAI, my coffee tasted a lot better. I can now iterate, providing updated feedback on the taste of the coffee to BaristaAI to continue moving towards great coffee, making a note of the ideal settings for when I make coffee with these beans again in the future.
 
