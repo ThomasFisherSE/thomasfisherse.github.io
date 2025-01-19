@@ -3,7 +3,9 @@ layout: post
 published: true
 title: BaristaAI
 subtitle: An AI assistant to help with coffee brewing.
-date: 2025/01/10
+gh-repo: ThomasFisherSE/BaristaAI
+gh-badge: [star, follow]
+tags: [C#,XAML,.NET,MAUI,Android,Desktop,Windows,LLM,AI,Machine Learning,APIs,Projects]
 thumbnail-img: "/assets/img/projects/baristaai/BaristaAI-icon.png"
 cover-img: ["/assets/img/projects/baristaai/coffee.png"]
 ---

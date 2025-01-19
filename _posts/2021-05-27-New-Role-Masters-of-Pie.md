@@ -3,7 +3,7 @@ layout: post
 published: true
 title: New Role at Masters of Pie
 subtitle: Software Developer at Masters of Pie
-date: 2021/05/27
+tags: [Work]
 thumbnail-img: "/assets/img/misc/mop_logo.png"
 cover-img: ["/assets/img/misc/mop_logo.png"]
 ---

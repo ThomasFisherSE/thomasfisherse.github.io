@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Graduation!
 subtitle: Graduated from Swansea University with a Master's Degree in Computing (MEng), with First Class Honours
-date: 2018/07/27
+tags: [University]
 thumbnail-img: "/assets/img/misc/Thomas_GradCapThrow_July2018.JPG"
 cover-img: ["/assets/img/misc/Thomas_TopOfDeptAward_July2018.JPG"]
 ---

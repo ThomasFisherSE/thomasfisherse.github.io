@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Promotion at Masters of Pie
 subtitle: Promoted to Senior Software Developer
-date: 2023/11/16
+tags: [Work]
 thumbnail-img: "/assets/img/misc/promotion-icon.png"
 cover-img: ["/assets/img/misc/mop_logo.png"]
 ---

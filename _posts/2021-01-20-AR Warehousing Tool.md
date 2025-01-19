@@ -3,7 +3,9 @@ layout: post
 published: true
 title: AR Warehousing Tool (Unity, C#)
 subtitle: An Android-based augmented reality tool to improve day-to-day operations for e-commerce warehouse workers.
-date: 2021/01/20
+gh-repo: ThomasFisherSE/veeqoARApp
+gh-badge: [star, follow]
+tags: [C#,Unity,.NET,Android,AR,REST,APIs,University,Projects]
 thumbnail-img: "/assets/img/projects/ar/arProjectionDemo.jpg"
 cover-img: ["/assets/img/projects/ar/Hiro+Veeqo QR.png"]
 ---

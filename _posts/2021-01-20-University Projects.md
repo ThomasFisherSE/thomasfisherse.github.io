@@ -3,7 +3,7 @@ layout: post
 published: true
 title: University Projects
 subtitle: A list of projects I worked on while at Swansea University.
-date: 2021/01/20
+tags: [University,Projects]
 thumbnail-img: "/assets/img/misc/Thomas_TopOfDeptAward_July2018.JPG"
 cover-img: ["/assets/img/misc/Thomas_TopOfDeptAward_July2018.JPG"]
 ---
