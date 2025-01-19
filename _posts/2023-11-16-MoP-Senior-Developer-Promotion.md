@@ -4,7 +4,7 @@ published: true
 title: Promotion at Masters of Pie
 subtitle: Promoted to Senior Software Developer
 date: 2023/11/16
-thumbnail-img: "/assets/img/misc/mop_logo.png"
+thumbnail-img: "/assets/img/misc/promotion-icon.png"
 cover-img: ["/assets/img/misc/mop_logo.png"]
 ---
 I'm very pleased to have been promoted to Senior Software Developer at Masters of Pie.
