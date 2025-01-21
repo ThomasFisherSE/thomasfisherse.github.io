@@ -9,6 +9,9 @@ tags: [C#,XAML,.NET,WPF,Desktop,Windows,Development,Projects]
 thumbnail-img: "/assets/img/projects/activityplanner/AssignActivityTimeSlot.png"
 cover-img: ["/assets/img/projects/activityplanner/AssignActivityTimeSlot.png"]
 ---
+{: .box-note}
+**Note:** This project is a work in progress, and is something I'm working on occassionally in my spare time. I will continue to update this article as the project progresses.
+
 ## Introduction
 My main personal project at the moment is to create a planner app for planning activities over a particular time span (e.g. for a holiday itinerary).
 
