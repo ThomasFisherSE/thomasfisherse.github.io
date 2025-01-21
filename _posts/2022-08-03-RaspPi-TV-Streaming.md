@@ -9,19 +9,19 @@ cover-img: ["/assets/img/projects/tvstreaming/raspberry_pi-_logo.png","/assets/i
 ---
 
 # Introduction
-In 2018, Raspberry Pi released the [Raspberry Pi TV HAT](https://www.raspberrypi.com/products/raspberry-pi-tv-hat/) add on, which allows a Raspberry Pi to be connected to an antenna and to receieve DVB-T2 TV streams.
+In 2018, Raspberry Pi released the [Raspberry Pi TV HAT](https://www.raspberrypi.com/products/raspberry-pi-tv-hat/) add-on, which allows a Raspberry Pi to be connected to an antenna and to receive DVB-T2 TV streams.
 
 ![Raspberry Pi TV HAT](/assets/img/projects/tvstreaming/tv_hat.jpg)
 
 Receiving TV streams on a Pi is cool in itself, but an even more exciting capability this unlocks is that the Raspberry Pi can be set up as a server to then stream digital TV to devices over a network.
 
-I set out to achieve this using the open source [tvheadened](https://github.com/tvheadend/tvheadend) streaming server software in combination with a [Plex](https://www.plex.tv/) media server, all running on the Raspberry Pi.
+I set out to achieve this using the open-source [tvheadend](https://github.com/tvheadend/tvheadend) streaming server software in combination with a [Plex](https://www.plex.tv/) media server, all running on the Raspberry Pi.
 
-With a premium tier Plex account, you gain access to live TV & DVR capabilities for your Plex server. To use this, you'd need to hook up a tuner device to your network. Instead of using a dedicated TV tuner device, I set up a tvheadened server on the Raspberry Pi hosting the Plex media server, which makes use of the "TV HAT" addon to receive live TV streams.
+With a premium tier Plex account, you gain access to live TV & DVR capabilities for your Plex server. To use this, you'd need to hook up a tuner device to your network. Instead of using a dedicated TV tuner device, I set up a tvheadend server on the Raspberry Pi hosting the Plex media server, which makes use of the "TV HAT" add-on to receive live TV streams.
 
 # Setup
 ## Building the Raspberry Pi
-Firstly, I prepared the Raspbery Pi hardware by attaching a Raspberry Pi TV HAT to a Raspberry Pi 2 Model B, and assembling plastic casing around it for protection. I also inserted a 64GB SD card for storage, a USB Bluetooth receiver (to use a wireless keyboard with the Raspberry Pi) and a USB WiFi dongle.
+Firstly, I prepared the Raspberry Pi hardware by attaching a Raspberry Pi TV HAT to a Raspberry Pi 2 Model B, and assembling plastic casing around it for protection. I also inserted a 64GB SD card for storage, a USB Bluetooth receiver (to use a wireless keyboard with the Raspberry Pi) and a USB WiFi dongle.
 
 For the initial setup, I hooked the Pi up to a computer monitor via HDMI, though when complete the device does not need a dedicated display.
 
@@ -50,10 +50,10 @@ To configure this on the Raspberry Pi itself*, the `/boot/cmdline.txt` file can 
 4. Save and exit the file (`CTRL+X`, then `Y`, then `Enter`)
 5. Restart the Raspberry Pi (`sudo reboot`)
 
-*This can also likely be achieved by configuring your router to assing a static IP to the Raspberry Pi based on its MAC address.
+*This can also likely be achieved by configuring your router to assign a static IP to the Raspberry Pi based on its MAC address.
 
 ## Tvheadend
-In order for Plex to use TV streams to provide live TV & DVR features, a TV streaming & DVR server must be used, which is where [tvheadend](https://github.com/tvheadend/tvheadend) comes in. Tvheadend is a free and open source TV streaming server and recorder for Linux which can output TV streams in a number of formats. These streams can then be picked up by the Plex Media Server and distributed to Plex clients.
+In order for Plex to use TV streams to provide live TV & DVR features, a TV streaming & DVR server must be used, which is where [tvheadend](https://github.com/tvheadend/tvheadend) comes in. Tvheadend is a free and open-source TV streaming server and recorder for Linux which can output TV streams in a number of formats. These streams can then be picked up by the Plex Media Server and distributed to Plex clients.
 
 Tvheadend can be installed with the following command:
 
@@ -61,7 +61,7 @@ Tvheadend can be installed with the following command:
 sudo apt-get install tvheadend
 ```
 
-After following some initial setup steps such as up a username and password, tvheadend can be acccessed from any machine in the network at the Pi's IP address on the port tvheadend is configured to use (9981 by default). You can log in us9ing the username and password specified on the Raspberry Pi. This is where much of the remaining configuration takes place.
+After following some initial setup steps such as up a username and password, tvheadend can be accessed from any machine in the network at the Pi's IP address on the port tvheadend is configured to use (9981 by default). You can log in using the username and password specified on the Raspberry Pi. This is where much of the remaining configuration takes place.
 
 After logging into the tvheadend web app (at `http://PI_IP_GOES_HERE:9981`), a configuration wizard will appear asking for some initial language specifications.
 
@@ -94,7 +94,7 @@ In the tvheadend web app (`http://PI_IP_GOES_HERE:9981`), add an account for the
 Next, navigate to the "Access Entries" page (Configuration > Users > Access Entries), and click on the "Add" button. Here, enter the Plex server username configured in the previous step, tick the "Web interface" box, set "Streaming" and "Video Recorder" to "Basic", and click "Apply".
 
 ## tvhProxy
-In order to allow the Plex Media Server to use the streams that are output by the tvheadened server, [tvhProxy](https://github.com/chkuendig/tvhProxy) can be used.
+In order to allow the Plex Media Server to use the streams that are output by the tvheadend server, [tvhProxy](https://github.com/chkuendig/tvhProxy) can be used.
 
 I followed steps to configure this detailed [here](https://www.mundayweb.com/html/Raspberry%20Pi/TV%20HAT%20and%20Plex%20Media%20Server.html#install-tvhproxy).
 
