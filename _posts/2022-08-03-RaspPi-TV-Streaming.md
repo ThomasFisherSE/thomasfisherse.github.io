@@ -5,13 +5,13 @@ title: Live TV Streaming Server on Raspberry Pi
 subtitle: Streaming live digital TV using Plex, a Raspberry Pi, and Tvheadend
 tags: [Linux,Server,Raspberry Pi,Media,Projects]
 thumbnail-img: "/assets/img/projects/tvstreaming/pi_tv.png"
-cover-img: ["/assets/img/projects/tvstreaming/raspberry_pi-_logo.png","/assets/img/projects/tvstreaming/pi_tv.png"]
+cover-img: ["/assets/img/projects/tvstreaming/raspberry_pi-_logo.png","/assets/img/projects/tvstreaming/pi_tv.png","/assets/img/projects/tvstreaming/tv_hat.jpg"]
 ---
 
 # Introduction
 In 2018, Raspberry Pi released the [Raspberry Pi TV HAT](https://www.raspberrypi.com/products/raspberry-pi-tv-hat/) add on, which allows a Raspberry Pi to be connected to an antenna and to receieve DVB-T2 TV streams.
 
-![Raspberry Pi TV HAT]("/assets/img/projects/tvstreaming/tv_hat.jpg")
+![Raspberry Pi TV HAT](/assets/img/projects/tvstreaming/tv_hat.jpg)
 
 Receiving TV streams on a Pi is cool in itself, but an even more exciting capability this unlocks is that the Raspberry Pi can be set up as a server to then stream digital TV to devices over a network.
 
@@ -65,23 +65,23 @@ After following some initial setup steps such as up a username and password, tvh
 
 After logging into the tvheadend web app (at `http://PI_IP_GOES_HERE:9981`), a configuration wizard will appear asking for some initial language specifications.
 
-![Tvheadend setup 1]("/assets/img/projects/tvstreaming/tvheadend-setup1.png")
+![Tvheadend setup 1](/assets/img/projects/tvstreaming/tvheadend-setup1.png)
 
 Next comes access control configuration (can enter * in username and password fields to allow anonymous access, or enter a username and password).
 
-![Tvheadend setup 2]("/assets/img/projects/tvstreaming/tvheadend-setup2.png")
+![Tvheadend setup 2](/assets/img/projects/tvstreaming/tvheadend-setup2.png)
 
 Then, it is time to configure the tuners. Under "Network 1", then IPTV fields can be left blank. Under "Network 2" however, the "Tuner" should be set to "Sony CXD2880 #0 : DBT-T #0", which is the TV HAT. The "Network Type" should be set to "DVB-T Network".
 
-![Tvheadend setup 3]("/assets/img/projects/tvstreaming/tvheadend-setup3.png")
+![Tvheadend setup 3](/assets/img/projects/tvstreaming/tvheadend-setup3.png)
 
 The next step is to configure [multiplexers](https://en.wikipedia.org/wiki/Multiplexer), or "muxes". For this step, in the "Pre-defined muxes" drop-down, the transmitter that will give you the best signal should be selected (e.g. the closest transmitter, or one that your aerial is optimally positioned to receive data from). Online tools such as [Freeview's channel checker](https://www.freeview.co.uk/freeview-channel-checker) can be helpful to determine which transmitter to select. 
 
-![Tvheadend setup 4]("/assets/img/projects/tvstreaming/tvheadend-setup4.png")
+![Tvheadend setup 4](/assets/img/projects/tvstreaming/tvheadend-setup4.png)
 
 After clicking "Save & Next" on this screen, a scan will commence to find muxes / services based on the settings you input. After this, you can map discovered services to channels, then the initial setup is complete.
 
-![Tvheadend setup 5]("/assets/img/projects/tvstreaming/tvheadend-setup5.png")
+![Tvheadend setup 5](/assets/img/projects/tvstreaming/tvheadend-setup5.png)
 
 Finally, reboot the device (`sudo reboot`). 
 
