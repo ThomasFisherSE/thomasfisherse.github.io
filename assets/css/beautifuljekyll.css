@@ -957,8 +957,8 @@ pre {
 }
 
 .box-note {
-  background-color: #eee;
-  border-left-color: #2980b9;
+  background-color: #1c1c1c;
+  border-left-color: #444;
 }
 
 .box-warning {
