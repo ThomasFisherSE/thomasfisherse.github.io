@@ -8,7 +8,7 @@ thumbnail-img: "/assets/img/projects/tvstreaming/pi_tv.png"
 cover-img: ["/assets/img/projects/tvstreaming/raspberry_pi-_logo.png","/assets/img/projects/tvstreaming/pi_tv.png","/assets/img/projects/tvstreaming/tv_hat.jpg"]
 ---
 {: .box-note}
-**Note:** Unlike most of the other projects I've written about on this website, this is not a software development project, but rather a server setup project.
+**Note:** Unlike most of the other tech projects I've written about on this website, this is not a software development project. Instead, this project focuses on the setup and integration of existing hardware and software to achieve live TV streaming capabilities. To read about my software development projects, check out the [`Development`](https://thomasfisherse.github.io/tags/#Development) tag.
 
 # Introduction
 In 2018, Raspberry Pi released the [Raspberry Pi TV HAT](https://www.raspberrypi.com/products/raspberry-pi-tv-hat/) add-on, which allows a Raspberry Pi to be connected to an antenna and to receive DVB-T2 TV streams.
