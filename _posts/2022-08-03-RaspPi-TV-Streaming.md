@@ -7,6 +7,8 @@ tags: [Linux,Server,Raspberry Pi,Media,Projects]
 thumbnail-img: "/assets/img/projects/tvstreaming/pi_tv.png"
 cover-img: ["/assets/img/projects/tvstreaming/raspberry_pi-_logo.png","/assets/img/projects/tvstreaming/pi_tv.png","/assets/img/projects/tvstreaming/tv_hat.jpg"]
 ---
+{: .box-note}
+**Note:** Unlike most of the other projects I've written about on this website, this is not a software development project, but rather a server setup project.
 
 # Introduction
 In 2018, Raspberry Pi released the [Raspberry Pi TV HAT](https://www.raspberrypi.com/products/raspberry-pi-tv-hat/) add-on, which allows a Raspberry Pi to be connected to an antenna and to receive DVB-T2 TV streams.
