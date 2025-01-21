@@ -33,6 +33,8 @@ Whenever we plan a Disney parks trip, we usually set up a huge spreadsheet with 
 
 Using spreadsheet software, this can be quite a time consuming task, and it doesn't look that great in the end since our planning approach isn't really what spreadsheet applications are designed for.
 
+![Holiday planning spreadsheet example](/assets/img/projects/activityplanner/spreadsheet.png)
+
 #### Expanding my Skills
 
 I'm always keen to hone my skills in different tools and technologies. Something I've had experience with for internal projects at work, but that I wanted to freely explore further, is WPF. As such I have been considering doing a personal project using WPF. 
