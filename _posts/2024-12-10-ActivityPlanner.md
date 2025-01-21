@@ -5,7 +5,7 @@ title: Activity Planner Desktop App (WPF) - Work In Progress
 subtitle: A Windows desktop application built using WPF providing activity planning capabilities.
 gh-repo: ThomasFisherSE/ActivityPlanner
 gh-badge: [star, follow]
-tags: [C#,XAML,.NET,WPF,Desktop,Windows,Projects]
+tags: [C#,XAML,.NET,WPF,Desktop,Windows,Development,Projects]
 thumbnail-img: "/assets/img/projects/activityplanner/AssignActivityTimeSlot.png"
 cover-img: ["/assets/img/projects/activityplanner/AssignActivityTimeSlot.png"]
 ---
