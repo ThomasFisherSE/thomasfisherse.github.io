@@ -54,6 +54,19 @@ The application is built using the MVVM software architecture pattern.
 
 As the project develops, I hope to post more information here, but in the meantime feel free to take a look at the GitHub project [here](https://github.com/ThomasFisherSE/ActivityPlanner).
 
+## Current Capabilities
+Currently the application has the following capabilities:
+- Define location data
+  - Specify location name
+- Define activity data
+  - Specify activity name
+  - Specify location
+  - Optionally specify an icon
+- Assign time range(s) for activities
+- Visualize activity time slots in timetable
+  - Programatically generated timetable grid based on data range and time span per row
+- Saves and loads session data (JSON Serialization / Deserialization)
+
 ## Screenshots
 ![Activity Planner: Assigning an Activity Time Slot](/assets/img/projects/activityplanner/AssignActivityTimeSlot.png)
 
