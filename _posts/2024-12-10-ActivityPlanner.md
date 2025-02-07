@@ -95,4 +95,4 @@ To easily identify locations that activities take place in (for example, which t
 An improvement I plan to make soon is to allow a color to be specified when a user defines a location, and to then visualize this color in the timetable by changing the background color of that activity slot.
 
 ### Data Input UI Improvements
-At the moment, data input is carried out through simple dialogs that I have implement as a quick initial solution for prototyping. I intend to replace each of these dialogs with more thought-out, polished user interfaces.
+At the moment, data input is carried out through simple dialogs that I have implement as a quick initial solution for prototyping. I intend to replace each of these dialogs with more thought-out, polished user interfaces. For example, rather than manually entering a time and date for an activity, it would be more convenient if users could just drag and drop an activity into the timetable at the appropriate time.
