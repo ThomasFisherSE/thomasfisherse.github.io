@@ -73,12 +73,16 @@ Currently the application has the following capabilities:
 More to come as the project progresses.
 
 ## Future Improvements
-### Canvas-Based Timetable View
+### Improved Timetable View
 Currently, the timetable view in the application is using a basic `Grid` control, where each grid cell is programatically populated based on user-entered timing data. For prototyping this has been a convenient intiial solution, however it has its drawbacks. 
 
 For example, if an activity starts mid-way through a time slot, there is currently no way to visualize this to differentiate the fact that it didn't start at the beginning of the time slot.
 
-To address this and provide much better flexibility, I intend to use a canvas for the timetable view instead, drawing activity 'blocks' with complete flexibility without being bound to grid rows / columns. This way, if an activity starts / ends mid-way through a time slot, the code that draws the block can simply choose the pixel to start the visualization at based on how far into the time slot the activity takes place.
+To address this and provide much better flexibility, I intend to replace the current timetable view implementation with something more like something you'd see in calendar apps like Outlook / Google calendars. 
+
+One option for this I'm looking into is using the [Syncfusion](https://www.syncfusion.com/) suite, which includes a WPF [scheduler control](https://www.syncfusion.com/wpf-controls/scheduler):
+
+![Syncfusion WPF Scheduler](https://ft.syncfusion.com/featuretour/wpf/images/scheduler/wpf-scheduler-week-view-appointments.png)
 
 ### Iconography in Timetable View
 One of the elements we tend to include in our plans is iconography to denote certain things about an acitivity block. For example, if a restaurant may require a reservation, we'd put a pen icon next to its name. 
