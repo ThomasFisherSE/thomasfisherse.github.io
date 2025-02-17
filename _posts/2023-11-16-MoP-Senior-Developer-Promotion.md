@@ -11,8 +11,8 @@ I'm very pleased to have been promoted to Senior Software Developer at Masters o
 
 Over the past 3 years I have been fortunate to have worked across a wide spectrum of interesting and innovative projects at Masters of Pie. I have used my C++ and computer graphics experience to help contribute to Radical's native 3D/XR renderer, written clean customer-facing code for the Radical SDK, and more recently, have been a key contributor working on XR solutions for defence making use of the Radical SDK. It has been a transformative time, and I am grateful for the professional growth I've been able to experience during my time so far at Masters of Pie.
 
-As I've grown more experienced and familiar with various codebases across the company, I've helped share my knowledge with the team, mentoring junior developers. I look forward to continuing to do this as part of Senior Software Developer responsibilities.
+As I've grown more experienced and familiar with various codebases across the company, I've helped share my knowledge with the team, mentoring junior developers. I look forward to continuing to do this as part of my Senior Software Developer responsibilities.
 
-I've also had the chance to improve non-technical skills which I'll carry forward with me for the rest of my career, such as in software demonstration and presentating to customers. In 2022, I had the opportunity to travel to the USA to do this taking steps out of my usual comfort zone behind a keyboard and providing value in other ways.
+I've also had the chance to improve non-technical skills which I'll carry forward with me for the rest of my career, such as in software demonstration and presenting to customers. In 2022, I had the opportunity to travel to the USA to do this, taking steps out of my usual comfort zone behind a keyboard and providing value in other ways.
 
-Onwards to the next chapter of my professional journey as a Senior Software Developer. I'm excited to see what comes next and to continue finding new ways to grow!
+Onwards to the next chapter of my professional journey as a Senior Software Developer - I'm excited to see what comes next and to continue finding new ways to grow.
