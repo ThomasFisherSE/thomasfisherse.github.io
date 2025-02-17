@@ -10,16 +10,18 @@ thumbnail-img: "/assets/img/projects/baristaai/BaristaAI-icon.png"
 cover-img: ["/assets/img/projects/baristaai/coffee.png"]
 ---
 
-GitHub repository: https://github.com/ThomasFisherSE/BaristaAI
-
 ## Introduction
+
 BaristaAI is a personal project I worked on after buying an espresso machine and wanting to improve the coffee I was making.
 
 There are many variables that can have an impact on the quality of an espresso. The taste of an espresso can help give some hints as to what may need tweaking to get the best you can out of your coffee. 
 
 I created BaristaAI as a simple but all-encompassing assistant app to help with coffee brewing. It works using a large language model (LLM) which has been provided some initial context to help guide conversations to give useful tips on coffee brewing.
 
+GitHub repository: [https://github.com/ThomasFisherSE/BaristaAI/](https://github.com/ThomasFisherSE/BaristaAI/)
+
 ## Examples
+
 I use this application myself quite frequently to help me improve the coffee I brew. For example, yesterday I made an espresso with some new beans but found it tasted overly bitter.
 
 I typed my issues into BaristaAI:
