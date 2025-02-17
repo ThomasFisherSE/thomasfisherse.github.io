@@ -10,6 +10,8 @@ thumbnail-img: "/assets/img/projects/baristaai/BaristaAI-icon.png"
 cover-img: ["/assets/img/projects/baristaai/coffee.png"]
 ---
 
+GitHub repository: https://github.com/ThomasFisherSE/BaristaAI
+
 ## Introduction
 BaristaAI is a personal project I worked on after buying an espresso machine and wanting to improve the coffee I was making.
 
