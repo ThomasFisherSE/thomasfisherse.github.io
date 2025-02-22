@@ -9,7 +9,7 @@ cover-img: ["/assets/img/misc/mop_logo.png"]
 ---
 After a great 3 years working at Rockfield, where I've grown a lot as a developer transitioning from education into the professional world, it's now time to move on to some new exciting challenges.
 
-I'm pleased to announce that I have started a new role as a Software Developer at Masters of Pie, developers of [Radical SDK](https://www.mastersofpie.com/products/radical-for-enterprise/).
+I'm pleased to announce that I have started a new role as a Software Developer at Masters of Pie, developers of [Radical SDK](https://www.linkedin.com/products/mastersofpie-radical-sdk/).
 
 Radical SDK is a .NET SDK built to streamline the process of enabling real-time collaboration within a new or existing software solutions. The cutting-edge collaboration technology implemented at Masters of Pie has been used to deliver collaborative immersive (VR/AR) experiences that have transformed industry workflow, such as its use within Siemens NX CAD software, providing a one-click VR mode for collaborative design reviews.
 

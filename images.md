@@ -70,7 +70,7 @@ Plot showing recent average error over time until fully trained (using 'AND' tra
 
 # Work Projects
 ## Masters of Pie
-For images / videos of software I contributed to whilst working at Masters of Pie, please see the [company website](https://www.mastersofpie.com/) or [video gallery](https://vimeo.com/mastersofpie).
+For videos of software I contributed to whilst working at Masters of Pie, please see the company's [video gallery](https://vimeo.com/mastersofpie).
 
 ## Rockfield
 For images / videos of software I contributed to whilst working at Rockfield, please see the [company website](https://www.rockfieldglobal.com/).
