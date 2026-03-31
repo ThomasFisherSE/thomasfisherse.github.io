@@ -10,7 +10,7 @@ thumbnail-img: "/assets/img/projects/activityplanner/AssignActivityTimeSlot.png"
 cover-img: ["/assets/img/projects/activityplanner/AssignActivityTimeSlot.png"]
 ---
 {: .box-note}
-**Note:** This project is a work in progress, and is something I'm working on occassionally in my spare time. I will continue to update this article as the project progresses.
+**Note:** This project is a work in progress, and is something I'm working on occasionally in my spare time. I will continue to update this article as the project progresses.
 
 ## Introduction
 My main personal project at the moment is to create a planner app for planning activities over a particular time span (e.g. for a holiday itinerary).
@@ -74,7 +74,7 @@ More to come as the project progresses.
 
 ## Future Improvements
 ### Improved Timetable View
-Currently, the timetable view in the application is using a basic `Grid` control, where each grid cell is programatically populated based on user-entered timing data. For prototyping this has been a convenient intiial solution, however it has its drawbacks. 
+Currently, the timetable view in the application is using a basic `Grid` control, where each grid cell is programmatically populated based on user-entered timing data. For prototyping this has been a convenient initial solution, however it has its drawbacks. 
 
 For example, if an activity starts mid-way through a time slot, there is currently no way to visualize this to differentiate the fact that it didn't start at the beginning of the time slot.
 
@@ -85,9 +85,9 @@ One option for this I'm looking into is using the [Syncfusion](https://www.syncf
 ![Syncfusion WPF Scheduler](https://ft.syncfusion.com/featuretour/wpf/images/scheduler/wpf-scheduler-week-view-appointments.png)
 
 ### Iconography in Timetable View
-One of the elements we tend to include in our plans is iconography to denote certain things about an acitivity block. For example, if a restaurant may require a reservation, we'd put a pen icon next to its name. 
+One of the elements we tend to include in our plans is iconography to denote certain things about an activity block. For example, if a restaurant may require a reservation, we'd put a pen icon next to its name. 
 
-I plan to introduce this capability to the app by showing an acitvity's icon (if specified by the user) in the timetable slot for that activity.
+I plan to introduce this capability to the app by showing an activity's icon (if specified by the user) in the timetable slot for that activity.
 
 ### Color-Coding Locations
 To easily identify locations that activities take place in (for example, which theme park it takes place in when on our Disney trips), we tend to color code locations. In the Disney World example, Magic Kingdom might be blue, Animal Kingdom might be green etc.
@@ -95,4 +95,4 @@ To easily identify locations that activities take place in (for example, which t
 An improvement I plan to make soon is to allow a color to be specified when a user defines a location, and to then visualize this color in the timetable by changing the background color of that activity slot.
 
 ### Data Input UI Improvements
-At the moment, data input is carried out through simple dialogs that I have implement as a quick initial solution for prototyping. I intend to replace each of these dialogs with more thought-out, polished user interfaces. For example, rather than manually entering a time and date for an activity, it would be more convenient if users could just drag and drop an activity into the timetable at the appropriate time.
+At the moment, data input is carried out through simple dialogs that I have implemented as a quick initial solution for prototyping. I intend to replace each of these dialogs with more thought-out, polished user interfaces. For example, rather than manually entering a time and date for an activity, it would be more convenient if users could just drag and drop an activity into the timetable at the appropriate time.

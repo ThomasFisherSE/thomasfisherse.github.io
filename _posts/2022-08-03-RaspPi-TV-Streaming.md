@@ -63,7 +63,7 @@ Tvheadend can be installed with the following command:
 sudo apt-get install tvheadend
 ```
 
-After following some initial setup steps such as up a username and password, tvheadend can be accessed from any machine in the network at the Pi's IP address on the port tvheadend is configured to use (9981 by default). You can log in using the username and password specified on the Raspberry Pi. This is where much of the remaining configuration takes place.
+After following some initial setup steps such as setting up a username and password, tvheadend can be accessed from any machine in the network at the Pi's IP address on the port tvheadend is configured to use (9981 by default). You can log in using the username and password specified on the Raspberry Pi. This is where much of the remaining configuration takes place.
 
 After logging into the tvheadend web app (at `http://PI_IP_GOES_HERE:9981`), a configuration wizard will appear asking for some initial language specifications.
 
