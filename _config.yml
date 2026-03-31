@@ -21,6 +21,9 @@ author: Thomas Fisher
 
 navbar-links:
   Projects:
+    - RAT-PONG: "https://thomasfisherse.github.io/2025-11-20-RAT-PONG/"
+    - Pin Tracker: "https://thomasfisherse.github.io/2026-01-31-PinTracker/"
+    - tetradragon.dev: "https://thomasfisherse.github.io/2026-02-11-TetraDragonSite/"
     - BaristaAI: "https://thomasfisherse.github.io/2025-01-10-BaristaAI/"
     - Activity Planner: "https://thomasfisherse.github.io/2024-12-10-ActivityPlanner/"
     - Evo-Strike: "https://thomasfisherse.github.io/2021-01-20-EvoGame/"
