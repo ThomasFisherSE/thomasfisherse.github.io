@@ -6,6 +6,8 @@ subtitle: A portfolio website disguised as a desktop operating system.
 gh-repo: ThomasFisherSE/tetra-dragon-site
 gh-badge: [star, follow]
 tags: [TypeScript,React,Web,Desktop,Development,Projects]
+thumbnail-img: /assets/img/projects/tetradragonsite/desktop.png
+cover-img: /assets/img/projects/tetradragonsite/desktop.png
 ---
 
 ## Introduction
@@ -14,9 +16,13 @@ When I started [contracting as Tetra Dragon Software](https://thomasfisherse.git
 
 You can check it out at [tetradragon.dev](https://tetradragon.dev).
 
+![The Tetra-OS desktop with icons for About Me, Projects, Services, and easter egg apps](/assets/img/projects/tetradragonsite/desktop.png)
+
 ## The Desktop Experience
 
-The site works like an OS. You're greeted with a boot screen and a lock screen, and then you land on a desktop with icons you can click to open windows. Each window is draggable and resizable, and supports minimize, maximize, and close, just like a real desktop environment. There's a taskbar along the bottom with a clock and buttons for each open window.
+The site works like an OS. You're greeted with a boot screen and a lock screen, and then you land on a desktop with icons you can click to open windows.
+
+![The Tetra-OS lock screen with clock, profile avatar, and Enter button](/assets/img/projects/tetradragonsite/lockscreen.png) Each window is draggable and resizable, and supports minimize, maximize, and close, just like a real desktop environment. There's a taskbar along the bottom with a clock and buttons for each open window.
 
 The portfolio content itself lives inside these windows: an About Me page, a Projects folder with detail pages for each project, a Services page, and a file explorer. But beyond the portfolio stuff, I had a lot of fun packing in extras.
 
@@ -28,6 +34,8 @@ This is where I probably spent more time than I should have:
 - **Dragon Paint** - a basic drawing app
 - **Dragon Powder** - a falling-sand physics simulation
 - **Pong** - yes, there's Pong in the portfolio site
+
+![Pong running in a window on the Tetra-OS desktop](/assets/img/projects/tetradragonsite/pong.png)
 - **Terminal** - a terminal emulator with custom commands
 - **3D Viewer** - a Three.js-powered model viewer
 - **Achievements** - an achievement system that tracks things you discover on the site
