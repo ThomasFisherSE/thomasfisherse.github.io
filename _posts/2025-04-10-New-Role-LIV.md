@@ -5,7 +5,7 @@ title: Teaming up with LIV!
 subtitle: Building the future of XR capture
 tags: [Work]
 thumbnail-img: "/assets/img/misc/liv_logo.png"
-cover-img: ["/assets/img/misc/liv_logo.png"]
+cover-img: ["/assets/img/misc/liv_camera.png"]
 ---
 
 I've teamed up with the talented folks at [LIV](https://www.liv.tv/) as a contract XR SDK Engineer, and I couldn't be more excited about what we're building together.
